@@ -4,6 +4,6 @@ jobs:
   firstjob: 
   runs_on: ubuntu-latest
   steps:
-    - name: Learning github actions  
-      run: echo hi iam learning github actions 
+     - name: Learning github actions  
+       run: echo hi iam learning github actions 
     
