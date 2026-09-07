@@ -2,8 +2,8 @@ name: github pipelines
 on: push
 jobs: 
   first_job: 
-  runs-on: ubuntu-latest
-  steps:
-     - name: Learning  
-       run: echo "hi iam learning github actions" 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Learning  
+        run: echo "hi iam learning github actions" 
     
